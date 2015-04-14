@@ -1,0 +1,18 @@
+body {
+	background-color: #FFFFFF;
+	text-align: center;
+
+}
+ p {
+	color: #000000;
+}
+#image1 {
+	display: block;
+	margin: 10px;
+}
+#image2 {
+	border:15px solid #000000;
+	display: center;
+	padding-left: 100px;
+	padding-right: 100px;
+}
