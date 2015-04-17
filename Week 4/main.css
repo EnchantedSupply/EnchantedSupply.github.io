@@ -1,0 +1,32 @@
+body {
+	background-color: #FFFFFF;
+	text-align: center;
+}
+ p {
+ 	text-align: center;
+ 	font-family: 'Josefin Slab', serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #000000;
+}
+h1 {
+	text-align: center;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 25px;
+	font-weight: bold;
+	color: #000000;
+}
+#image1 {
+	display: block;
+	margin: 10px;
+}
+#image2 {
+	border:15px solid #000000;
+	display: center;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+#email {
+	font-family: 'Permanent Marker', cursive;
+	color: #000000;
+}
